@@ -1,0 +1,13 @@
+{
+  "dataset_id": "SMI-80-2026",
+  "generation_seed": 20261124,
+  "original_files": 80,
+  "tampered_copies": 12,
+  "category_counts": {
+    "Text": 20,
+    "Image": 20,
+    "Audio": 20,
+    "Video": 20
+  },
+  "total_original_bytes": 756740096
+}
